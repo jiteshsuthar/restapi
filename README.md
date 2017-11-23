@@ -13,7 +13,7 @@ Simple ReST API using nodejs + nedb
 	
 
 # Begin
-* Install node-modules using npm command from home directory.
+* Install node-modules using npm command from app directory.
 
 		npm install
     
