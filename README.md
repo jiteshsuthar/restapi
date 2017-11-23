@@ -8,7 +8,7 @@ Simple ReST API using nodejs + nedb
     https://nodejs.org/en/download/
     
     Local shared Link
-    \\192.168.1.127\sharedfolder\REST
+    \\192.168.1.127\sharedfolder\REST_Sample
 
 	
 
